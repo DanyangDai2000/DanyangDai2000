@@ -13,7 +13,7 @@
 ## 项目
 
 - **沪深 300 多因子选股策略（ML 升级版）** —— LightGBM/Ridge 因子合成 + walk-forward 回测，修复样本内偏差与幸存者偏差口径 → [ml-multifactor-quant-strategy](https://github.com/DanyangDai2000/ml-multifactor-quant-strategy)
-- **贝叶斯幂先验毕业设计** —— 提出用历史/当前样本响应密度重叠度设定幂先验参数 α₀；Gibbs + Metropolis-Hastings 采样 + Geweke 收敛诊断 + 三种先验设定对照 → [bayesian-power-prior](https://github.com/DanyangDai2000/bayesian-power-prior)
+- **贝叶斯幂先验毕业设计** —— 提出用历史/当前样本响应密度重叠度设定幂先验参数 α₀；Gibbs + Metropolis-Hastings 采样 + Geweke 收敛诊断 + 四种先验设定对照 → [bayesian-power-prior](https://github.com/DanyangDai2000/bayesian-power-prior)
 - **PRoofInsight** —— SHE NiCEST「烈变」千人黑客松作品，获沙利文「PROOF OF INSIGHT」赛道第三名（团队 TraceLab）→ [proof-of-insight](https://github.com/DanyangDai2000/proof-of-insight)
 - **STAR 数据集小班教学效应研究** —— 因果推断，UC Davis STA 207 课程报告 → [UC-Davis-STA-207-final-report-for-STAR-project](https://github.com/DanyangDai2000/UC-Davis-STA-207-final-report-for-STAR-project)
 - **ADHD 性别差异 fMRI 研究** —— 图卷积网络 + 多目标回归
@@ -26,4 +26,4 @@
 
 ## 技能
 
-Python · R · 统计建模 · 贝叶斯/MCMC · 机器学习 · 因果推断
+Python · R · SQL · Shell · Git · Linux · LaTeX · 统计建模 · 贝叶斯/MCMC · 机器学习 · 因果推断
