@@ -19,6 +19,8 @@
 - **ADHD 脑功能连接中的独立判别信号** —— 图神经网络 + 相关 vs 因果 + 六项统计检验 → [UC-Davis-STA-250-final-report](https://github.com/DanyangDai2000/UC-Davis-STA-250-final-report)
 - **统计学习笔记** → [stats-notes](https://github.com/DanyangDai2000/stats-notes)
 
+- **基于模块度的社区发现** —— 组长，多层网络社区发现（GenLouvain / 多层 PMM），MATLAB 实现 + 真实/仿真数据验证 → [modularity-multiplex](https://github.com/DanyangDai2000/modularity-multiplex)
+
 ## 荣誉
 
 - 第十三届中国大学生数学竞赛（初赛）· 全国一等奖（数学类，2021.11）
